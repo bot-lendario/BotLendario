@@ -5,6 +5,8 @@ const menulogos = (prefix) => {
 ◆◇ ${prefix}narutobanner (txt)
 ◆◇ ${prefix}bannergold (txt)
 ◆◇ ${prefix}lobometal (txt)   
+◆◇ ${prefix}glitch (txt)
+◆◇ ${prefix}demongreen (txt)
 ◆◇ ${prefix}metalgold (txt)
 ◆◇ ${prefix}crossfire (txt)  
 ◆◇ ${prefix}shadow (txt)      

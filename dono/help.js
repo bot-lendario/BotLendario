@@ -135,7 +135,7 @@ return `
 ◆◇
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
-◆◇ 『•ALTR GIF/FOTO•』
+◆◇ 『•RANDOM/FOTO/GIF』
 ◆◇
 ◆◇ ${prefix}metadinha
 ◆◇ ${prefix}patrick

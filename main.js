@@ -115,19 +115,7 @@ conn.handler = async function (m) {
     if (m.isBaileys) return
     m.exp += 1
     
-  	let usedPrefix
-  	for (let name in global.plugins) {
-  	  let plugin = global.plugins[name]
-      if (!plugin) continue
-      if (plugin.tags && plugin.tags.includes('admin')) continue
-      let _prefix = plugin.customPrefix ? plugin.customPrefix : conn.prefix ? conn.prefix : global.prefix
-  	  if ((usedPrefix = (_prefix.exec(m.text) || '')[0])) {
-        let noPrefix = m.text.replace(usedPrefix, '')
-  		  let [command, ...args] = noPrefix.trim().split` `.filter(v=>v)
-        args = args || []
-        let _args = noPrefix.trim().split` `.slice(1)
-        let text = _args.join` `
-  		  command = (command || '').toLowerCase()
+  
         let isROwner = [global.conn.user.jid, ...global.owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
         let isOwner = isROwner || m.fromMe
 
@@ -454,6 +442,7 @@ Object.freeze(global.support)
 if (!global.support.ffmpeg) conn.logger.warn('Please install ffmpeg for sending videos (pkg install ffmpeg)')
 if (!global.support.ffmpegWebp) conn.logger.warn('Stickers may not animated without libwebp on ffmpeg (--emable-ibwebp while compiling ffmpeg)')
 if (!global.support.convert) conn.logger.warn('Stickers may not work without imagemagick if libwebp on ffmpeg doesnt isntalled (pkg install imagemagick)')
+
 
 
 
