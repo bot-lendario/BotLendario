@@ -3,6 +3,8 @@ const menulogos = (prefix) => {
 ━━━━❮ 𝑴𝒆𝒏𝒖 𝑫𝒆 𝑳𝒐𝒈𝒐𝒔 ❯━━━━
 ◆◇
 ◆◇ ${prefix}narutobanner (txt)
+◆◇ ${prefix}thunderv2 (txt)
+◆◇ ${prefix}transformer (txt)
 ◆◇ ${prefix}bannergold (txt)
 ◆◇ ${prefix}lobometal (txt)   
 ◆◇ ${prefix}glitch (txt)

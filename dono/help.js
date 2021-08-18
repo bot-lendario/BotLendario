@@ -36,6 +36,7 @@ return `
 ◆◇ ${prefix}bateria
 ◆◇ ${prefix}listonline
 ◆◇ ${prefix}print (url)
+◆◇ ${prefix}gitdobot
 ◆◇ ${prefix}bot
 ◆◇ ${prefix}gtts pt (txt)
 ◆◇ ${prefix}tomp3 
@@ -47,6 +48,7 @@ return `
 ◆◇ ${prefix}meme 
 ◆◇ ${prefix}frases
 ◆◇ ${prefix}semoji exemplo: 😉
+◆◇ ${prefix}resposta numero|bla|bla
 ◆◇  
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
