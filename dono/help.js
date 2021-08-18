@@ -48,7 +48,7 @@ return `
 ◆◇ ${prefix}meme 
 ◆◇ ${prefix}frases
 ◆◇ ${prefix}semoji exemplo: 😉
-◆◇ ${prefix}resposta numero|bla|bla
+◆◇ ${prefix}calunia numero|bla|bla
 ◆◇  
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
