@@ -27,6 +27,9 @@ return `
 ◆◇ 
 ◆◇ 『•CMDS BÁSICOS•』
 ◆◇ 
+◆◇ ${prefix}semoji exemplo: 😉
+◆◇ ${prefix}calunia numero|bla|bla
+◆◇ ${prefix}gerarnick (nome)
 ◆◇ ${prefix}sticker 
 ◆◇ ${prefix}fsticker
 ◆◇ ${prefix}stcirculo
@@ -47,8 +50,6 @@ return `
 ◆◇ ${prefix}wallpaper (nome)
 ◆◇ ${prefix}meme 
 ◆◇ ${prefix}frases
-◆◇ ${prefix}semoji exemplo: 😉
-◆◇ ${prefix}calunia numero|bla|bla
 ◆◇  
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
@@ -203,6 +204,12 @@ return `
 ◆◇ 『•ATTPS/TTPS/TTMS•』
 ◆◇
 ◆◇ ${prefix}attp  (txt)
+◆◇ ${prefix}attp1 (txt)
+◆◇ ${prefix}attp2 (txt)
+◆◇ ${prefix}attp3 (txt)
+◆◇ ${prefix}attp4 (txt)
+◆◇ ${prefix}attp5 (txt)
+◆◇ ${prefix}attp6 (txt)
 ◆◇ ${prefix}ttm   (txt)
 ◆◇ ${prefix}ttm2  (txt)
 ◆◇ ${prefix}ttm3  (txt)

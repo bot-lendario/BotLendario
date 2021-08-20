@@ -13,8 +13,9 @@ const adms = (prefix) => {
 ◆◇ ${prefix}hidetag (txt) (Marc tds invsv)
 ◆◇ ${prefix}marcar (marca tds do gp)
 ◆◇ ${prefix}marcar1 (marca tds do gp)
-◆◇ ${prefix}anagrama ativar/desativar
+◆◇ ${prefix}anagrama 1 / 0
 ◆◇ ${prefix}antidocumento 1 / 0  
+◆◇ ${prefix}antiracismo 1 / 0
 ◆◇ ${prefix}anticontato 1 / 0  
 ◆◇ ${prefix}antiloc 1 / 0  
 ◆◇ ${prefix}leveling 1 / 0  
