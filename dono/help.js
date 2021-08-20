@@ -189,13 +189,11 @@ return `
 ◆◇
 ◆◇ 『•INFO/PESQUISA•』
 ◆◇
-◆◇ ${prefix}mercadolivre (oq qr)
-◆◇ ${prefix}happymod (apk nome)
 ◆◇ ${prefix}playstore (nome)
 ◆◇ ${prefix}covidglobal
 ◆◇ ${prefix}covid19
+◆◇ ${prefix}gimage (nome)
 ◆◇ ${prefix}wikipedia  (nome)
-◆◇ ${prefix}wallsearch (nm da img)
 ◆◇ ${prefix}yandex (nm-da-img)
 ◆◇ ${prefix}pinterest (nm-da-img)
 ◆◇
@@ -204,7 +202,6 @@ return `
 ◆◇ 『•ATTPS/TTPS/TTMS•』
 ◆◇
 ◆◇ ${prefix}attp  (txt)
-◆◇ ${prefix}attp1 (txt)
 ◆◇ ${prefix}attp2 (txt)
 ◆◇ ${prefix}attp3 (txt)
 ◆◇ ${prefix}attp4 (txt)

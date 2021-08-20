@@ -3,6 +3,7 @@ const dono = (prefix) => {
 ━━━❮ 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐃𝐎𝐍𝐎 ❯━━━
 ◆◇  
 ◆◇ ${prefix}serpremium
+◆◇ ${prefix}bcgp (TM pra tds do gp)
 ◆◇ ${prefix}delpremium @(marca)
 ◆◇ ${prefix}addpremium @(marca)
 ◆◇ ${prefix}addlevel @(marca) (numero)
@@ -19,6 +20,7 @@ const dono = (prefix) => {
 
 }
 exports.dono = dono
+
 
 
 
