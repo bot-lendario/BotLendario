@@ -27,6 +27,7 @@ return `
 ◆◇ 
 ◆◇ 『•CMDS BÁSICOS•』
 ◆◇ 
+◆◇ ${prefix}placaloli (txt)
 ◆◇ ${prefix}semoji exemplo: 😉
 ◆◇ ${prefix}calunia numero|bla|bla
 ◆◇ ${prefix}gerarnick (nome)
@@ -93,7 +94,16 @@ return `
 ◆◇ ${prefix}poly (txt)
 ◆◇ ${prefix}bold (txt)
 ◆◇ ${prefix}army (txt)
+◆◇ 
+━━━━━━━❮◆❯━━━━━━━
 ◆◇
+◆◇   『•ALEATÓRIOS•』
+◆◇  
+◆◇ ${prefix}randomanime
+◆◇ ${prefix}sticknime
+◆◇ ${prefix}patrik
+◆◇ ${prefix}dogzin 
+◆◇ 
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
 ◆◇ 『•CRIAR QR/ETC.•』
@@ -135,15 +145,6 @@ return `
 ◆◇ ${prefix}estourar 
 ◆◇ ${prefix}bass 
 ◆◇ ${prefix}bass2 
-◆◇
-━━━━━━━❮◆❯━━━━━━━
-◆◇
-◆◇ 『•RANDOM/FOTO/GIF』
-◆◇
-◆◇ ${prefix}metadinha
-◆◇ ${prefix}patrick
-◆◇ ${prefix}dogzin
-◆◇ ${prefix}dadu
 ◆◇
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
@@ -202,6 +203,7 @@ return `
 ◆◇ 『•ATTPS/TTPS/TTMS•』
 ◆◇
 ◆◇ ${prefix}attp  (txt)
+◆◇ ${prefix}ttp (txt)
 ◆◇ ${prefix}attp2 (txt)
 ◆◇ ${prefix}attp3 (txt)
 ◆◇ ${prefix}attp4 (txt)
