@@ -99,18 +99,11 @@ return `
 ◆◇
 ◆◇   『•ALEATÓRIOS•』
 ◆◇  
-◆◇ ${prefix}randomanime
 ◆◇ ${prefix}sticknime
-◆◇ ${prefix}patrik
 ◆◇ ${prefix}dogzin 
-◆◇ 
-━━━━━━━❮◆❯━━━━━━━
-◆◇
-◆◇ 『•CRIAR QR/ETC.•』
-◆◇
 ◆◇ ${prefix}qrcode
 ◆◇ ${prefix}wame 
-◆◇
+◆◇ 
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
 ◆◇ 『•BRINCADEIRAS•』
