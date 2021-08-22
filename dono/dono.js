@@ -2,7 +2,8 @@ const dono = (prefix) => {
 	return `
 ━━━❮ 𝐌𝐄𝐍𝐔 𝐃𝐄 𝐃𝐎𝐍𝐎 ❯━━━
 ◆◇  
-◆◇ ${prefix}antipv true / false
+◆◇ ${prefix}antipvon
+◆◇ ${prefix}antipvoff
 ◆◇ ${prefix}serpremium
 ◆◇ ${prefix}bcgp (TM pra tds do gp)
 ◆◇ ${prefix}delpremium @(marca)
