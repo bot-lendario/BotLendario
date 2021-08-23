@@ -1,8 +1,9 @@
-const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku) => { 
+const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku, horario, ucapanWaktu) => { 
 return `
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
-◆◇ Olá ${pushname}  
+◆◇ Olá ${pushname}
+◆◇ ${ucapanWaktu} 
 ◆◇ seja bem vindo(a) 
 ◆◇ ao menu de comandos
 ◆◇  

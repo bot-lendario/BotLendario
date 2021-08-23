@@ -4,6 +4,8 @@ const dono = (prefix) => {
 ◆◇  
 ◆◇ ${prefix}antipvon
 ◆◇ ${prefix}antipvoff
+◆◇ ${prefix}bangp
+◆◇ ${prefix}unbangp
 ◆◇ ${prefix}serpremium
 ◆◇ ${prefix}bcgp (TM pra tds do gp)
 ◆◇ ${prefix}delpremium @(marca)

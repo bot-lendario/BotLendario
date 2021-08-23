@@ -2,12 +2,13 @@
 	"prefix": "!",
 	"ownerNumber": "SEU-NUMERO-JUNTO",
 	"NumberOwner": "SEU-NÚMERO-SEPARADO", 
-	"instagram": "OFF",
-	"ytb": "OFF",
 	"NamaOwner": "NOME-DO-DONO",
 	"NamaBot": "NOME-DO-BOT",
-	"memberlimit": "1",
+ "instagram": "OFF",
+	"ytb": "OFF",
 	"crtt": "𝐉𝐎𝐆𝐎 𝐃𝐀 𝐕𝐄𝐋𝐇𝐀",
+ "banChats": "false", 
 	"cdd": "480000",
+ "memberlimit": "1",
 	"limitawal": "9999"
 }
