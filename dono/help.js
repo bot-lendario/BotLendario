@@ -1,4 +1,4 @@
-const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku, horario, ucapanWaktu) => { 
+const help = (prefix, pushname, getLevelingLevel, getLevelingXp, sender, time, patt, uangku, horario, ucapanWaktu, battre) => { 
 return `
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
@@ -10,6 +10,7 @@ return `
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
 ◆◇ Prefixo:『 ${prefix} 』
+◆◇ Bateria:『 ${battre} 』
 ◆◇ Data/Hora : ${time}
 ◆◇ Level : ${getLevelingLevel(sender)}
 ◆◇ Patente : ${patt}
@@ -28,28 +29,30 @@ return `
 ◆◇ 
 ◆◇ 『•CMDS BÁSICOS•』
 ◆◇ 
+◆◇ ${prefix}calunia numero|bla|bla
 ◆◇ ${prefix}placaloli (txt)
 ◆◇ ${prefix}semoji exemplo: 😉
-◆◇ ${prefix}calunia numero|bla|bla
+◆◇ ${prefix}simi (fale algo) 
 ◆◇ ${prefix}gerarnick (nome)
+◆◇ ${prefix}gitdobot
 ◆◇ ${prefix}sticker 
-◆◇ ${prefix}fsticker
+◆◇ ${prefix}fsticker 
 ◆◇ ${prefix}stcirculo
 ◆◇ ${prefix}toimg 
 ◆◇ ${prefix}togif 
 ◆◇ ${prefix}imgpralink
+◆◇ ${prefix}videopralink
 ◆◇ ${prefix}bateria
 ◆◇ ${prefix}listonline
+◆◇ ${prefix}listagp
 ◆◇ ${prefix}print (url)
-◆◇ ${prefix}gitdobot
 ◆◇ ${prefix}bot
 ◆◇ ${prefix}gtts pt (txt)
-◆◇ ${prefix}tomp3 
+◆◇ ${prefix}tomp3
 ◆◇ ${prefix}ping 
 ◆◇ ${prefix}play  (oq qr)
 ◆◇ ${prefix}gimage 
 ◆◇ ${prefix}rename 
-◆◇ ${prefix}wallpaper (nome)
 ◆◇ ${prefix}meme 
 ◆◇ ${prefix}frases
 ◆◇  
@@ -60,6 +63,7 @@ return `
 ◆◇ ${prefix}triggered 
 ◆◇ ${prefix}paisagem 
 ◆◇ ${prefix}qbcabeça 
+◆◇ ${prefix}legenda 
 ◆◇ ${prefix}vidroqb 
 ◆◇ ${prefix}deletef 
 ◆◇ ${prefix}petmak 
@@ -83,16 +87,15 @@ return `
 ◆◇ ${prefix}ppt (papel-tesoura) 
 ◆◇ ${prefix}ttt (jogo da velha)
 ◆◇ ${prefix}jogodavelha @marca
-◆◇ ${prefix}anagrama 
+◆◇ ${prefix}anagrama  1 / 0 
 ◆◇
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
 ◆◇ 『•EFTS GIF (TXT)•』
 ◆◇ 
-◆◇ ${prefix}colorfull (txt)
+◆◇ ${prefix}colorful (txt)
 ◆◇ ${prefix}glowing (txt)
-◆◇ ${prefix}retro (txt)
-◆◇ ${prefix}poly (txt)
+◆◇ ${prefix}cold (txt)
 ◆◇ ${prefix}bold (txt)
 ◆◇ ${prefix}army (txt)
 ◆◇ 
@@ -207,7 +210,6 @@ return `
 ◆◇ ${prefix}ttm2  (txt)
 ◆◇ ${prefix}ttm3  (txt)
 ◆◇ ${prefix}ttm4  (txt)
-◆◇ ${prefix}ttm5  (txt)
 ◆◇
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇
