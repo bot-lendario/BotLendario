@@ -82,6 +82,15 @@ return `
 ◆◇  
 ━━━━━━━❮◆❯━━━━━━━
 ◆◇  
+◆◇  『•PLAQUINHAS•』
+◆◇
+◆◇ ${prefix}plaq1 (nome)
+◆◇ ${prefix}plaq2 (nome)
+◆◇ ${prefix}plaq3 (nome)
+◆◇ ${prefix}plaq4 (nome)
+◆◇
+━━━━━━━❮◆❯━━━━━━━
+◆◇  
 ◆◇ 『•JOGOS•』
 ◆◇
 ◆◇ ${prefix}ppt (papel-tesoura) 
